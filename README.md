@@ -13,7 +13,7 @@
 * :large_orange_diamond: Possition :  Machine Learning Engineer 
 * :large_orange_diamond: Period : Running 
 
-### :briefcase: :briefcase:Tachnical Skills 
+### :white_check_mark: Tachnical Skills :briefcase: :briefcase:
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br><br>
 ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
