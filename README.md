@@ -30,13 +30,13 @@
 #### Research Achivments 
 I have some minor achivment in the field of coputer vision and Nlp 
 
-1. [Real-time Personal Protective Equipment (PPE) Detection Using YOLOv4 and TensorFlow](https://ieeexplore.ieee.org/document/9550808)
+:one: [Real-time Personal Protective Equipment (PPE) Detection Using YOLOv4 and TensorFlow](https://ieeexplore.ieee.org/document/9550808)
 
 Confarence : 2021 IEEE Region 10 Symposium (TENSYMP) &nbsp; &nbsp; &nbsp;  Date: August 2021 &nbsp; &nbsp; git: [ here ](https://github.com/AmzadHossainrafis/Personal-Protective-Gear-Surveillance-System) &nbsp; &nbsp; 
 
  &nbsp; in this paper, me and my co-author implemented a servalence system that monitors people from a live camera feed that are people following the mandatory covid prevention   protocols like are people wearing personal protective equipment (mask, face-shield, gloves, ppe) , and also identify who is not following to prevent the rapid spread   of covid 
  
- 2. [ Data Mining Techniques to Categorize Single Paragraph-Formed Self-narrated Stories](https://link.springer.com/chapter/10.1007/978-981-15-8354-4_70)
+ :two: [ Data Mining Techniques to Categorize Single Paragraph-Formed Self-narrated Stories](https://link.springer.com/chapter/10.1007/978-981-15-8354-4_70)
  <br> confarence : ICT Analysis and Applications &nbsp; &nbsp; Date: December 2020  &nbsp; &nbsp;
  
   in this paper we tried to impliment a text classification from verios scourse lisk social media post using machine learning algorithm like SVM ,Decision tree, Random forest etc .
