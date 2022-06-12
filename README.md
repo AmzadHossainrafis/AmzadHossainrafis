@@ -9,9 +9,9 @@
 <br>
 
 ### Work Experience 
-* company : canada syntex  
-* possition :  machine learning engineer 
-* period : running 
+* Company : Canada Syntex  
+* Possition :  Machine Learning Engineer 
+* Period : Running 
 
 ### :briefcase: :briefcase:Tachnical Skills 
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
