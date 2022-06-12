@@ -24,14 +24,11 @@
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![](	https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
 <br>
 
-
-
 ## :mortar_board: :mortar_board: Achivments 
-#### reshearch achivments 
-i have some minor achivment in the field of coputer vision and Nlp 
+#### Research Achivments 
+I have some minor achivment in the field of coputer vision and Nlp 
 
 1. [Real-time Personal Protective Equipment (PPE) Detection Using YOLOv4 and TensorFlow](https://ieeexplore.ieee.org/document/9550808)
 
