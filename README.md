@@ -1,9 +1,9 @@
 ##### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;In the Name of God the Merciful, the Compassionate 
-
+<p align="center"><img src="Black & Yellow Digital Marketing Facebook Cover.png"\></p>
 #### Amzad Hossain &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; email: amzad.rafi@northsout.edu &nbsp; &nbsp;  &nbsp;  &nbsp; contact : +880-1728118376
 
 ### About me 
-<p>Hello, my name is Amzad Hossain. I am a 26-year-old woman. With experience in machine learning and pattern recognition, I received my BSc degree from North-South University, one of Bangladesh's best private universities. I am a fun-loving individual who is at ease in a variety of situations. In me, I valued a never-say-die attitude. If I may add anything further about myself, I enjoy tinkering with my code because practice makes perfect. In addition to coding, I've recently developed a passion for film editing and human sociology. Furthermore, I am a tremendous football lover, and Real Madrid is my favourite team. My role model is our prophet Mohammad (pbh) and my parents, who are always at my side. I am currently working for a Canada based company called Canada syntex as a machine learning engineer </p>
+<p>Hello, my name is Amzad Hossain. I am a 26-year-old . With experience in machine learning and pattern recognition, I received my BSc degree from North-South University, one of Bangladesh's best private universities. I am a fun-loving individual who is at ease in a variety of situations. In me, I valued a never-say-die attitude. If I may add anything further about myself, I enjoy tinkering with my code because practice makes perfect. In addition to coding, I've recently developed a passion for film editing and human sociology. Furthermore, I am a tremendous football lover, and Real Madrid is my favourite team. My role model is our prophet Mohammad (pbh) and my parents, who are always at my side. I am currently working for a Canada based company called Canada syntex as a machine learning engineer </p>
 
 ### Skills 
 
