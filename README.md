@@ -22,10 +22,8 @@ Amzad Hossain &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; email: amzad.rafi@northsout.e
 
 
 
-### Achivments 
-
-
-* reshearch achivments 
+## Achivments :mortar_board: 
+#### reshearch achivments 
 i have some minor achivment in the field of coputer vision and Nlp 
 
 1. [Real-time Personal Protective Equipment (PPE) Detection Using YOLOv4 and TensorFlow](https://ieeexplore.ieee.org/document/9550808)
@@ -38,15 +36,6 @@ Confarence : 2021 IEEE Region 10 Symposium (TENSYMP) &nbsp; &nbsp; &nbsp;  Date:
  <br> confarence : ICT Analysis and Applications &nbsp; &nbsp; Date: December 2020  &nbsp; &nbsp;
  
   in this paper we tried to impliment a text classification from verios scourse lisk social media post using machine learning algorithm like SVM ,Decision tree, Random forest etc .
-
-
-
-
-
-
-
-* academic achivments &nbsp; <br>
-i graduated from Northsouth 
 
 ## Social link
 !["https://www.facebook.com/amzadhossain.rafi/"](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)/amzadhossain.rafi &nbsp; &nbsp; ![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)//amzad.rafi112/ &nbsp; &nbsp;
