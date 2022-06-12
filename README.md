@@ -37,7 +37,7 @@ Confarence : 2021 IEEE Region 10 Symposium (TENSYMP) &nbsp; &nbsp; &nbsp;  Date:
  &nbsp; in this paper, me and my co-author implemented a servalence system that monitors people from a live camera feed that are people following the mandatory covid prevention   protocols like are people wearing personal protective equipment (mask, face-shield, gloves, ppe) , and also identify who is not following to prevent the rapid spread   of covid 
  
  :two: [ Data Mining Techniques to Categorize Single Paragraph-Formed Self-narrated Stories](https://link.springer.com/chapter/10.1007/978-981-15-8354-4_70)
- <br> confarence : ICT Analysis and Applications &nbsp; &nbsp; Date: December 2020  &nbsp; &nbsp;
+ <br> Confarence : ICT Analysis and Applications &nbsp; &nbsp; Date: December 2020  &nbsp; &nbsp;
  
   in this paper we tried to impliment a text classification from verios scourse lisk social media post using machine learning algorithm like SVM ,Decision tree, Random forest etc .
 
