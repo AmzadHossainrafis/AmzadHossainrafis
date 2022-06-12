@@ -44,6 +44,6 @@ Confarence : 2021 IEEE Region 10 Symposium (TENSYMP) &nbsp; &nbsp; &nbsp;  Date:
  
   in this paper we tried to impliment a text classification from verios scourse lisk social media post using machine learning algorithm like SVM ,Decision tree, Random forest etc .
 
-## Social link
+## :rocket: :rocket:Social link
 !["https://www.facebook.com/amzadhossain.rafi/"](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)/amzadhossain.rafi &nbsp; &nbsp; ![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)//amzad.rafi112/ &nbsp; &nbsp;
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)/AmzadHossainrafis
