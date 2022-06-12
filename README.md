@@ -22,7 +22,7 @@ Amzad Hossain &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb
 
 
 
-## Achivments :mortar_board: 
+## :mortar_board: :mortar_board: Achivments 
 #### reshearch achivments 
 i have some minor achivment in the field of coputer vision and Nlp 
 
