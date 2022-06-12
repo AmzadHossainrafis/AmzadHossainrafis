@@ -1,4 +1,4 @@
-##### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;In the Name of God the Merciful, the Compassionate 
+##### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;In the Name of God the Merciful, the Compassionate 
 <p align="center"><img src="https://github.com/AmzadHossainrafis/git_profile/blob/main/Black%20%26%20Yellow%20Digital%20Marketing%20Facebook%20Cover.png"\></p><br>
 Amzad Hossain &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; email: amzad.rafi@northsout.edu &nbsp; &nbsp;  &nbsp;  &nbsp; contact : +880-1728118376
 
