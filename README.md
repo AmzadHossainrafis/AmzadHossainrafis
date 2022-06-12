@@ -6,7 +6,7 @@ Amzad Hossain &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb
 
 <p>Hello, my name is Amzad Hossain. I am a 26-year-old . With experience in machine learning and pattern recognition, I received my BSc degree from North-South University, one of Bangladesh's best private universities. I am a fun-loving individual who is at ease in a variety of situations. In me, I valued a never-say-die attitude. If I may add anything further about myself, I enjoy tinkering with my code because practice makes perfect. In addition to coding, I've recently developed a passion for film editing and human sociology. Furthermore, I am a tremendous football lover, and Real Madrid is my favourite team. My role model is our prophet Mohammad (pbh) and my parents, who are always at my side. I am currently working for a Canada based company called Canada syntex as a machine learning engineer </p>
 
-### Tachnical Skills 
+### :briefcase: :briefcase:Tachnical Skills 
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br><br>
 ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
