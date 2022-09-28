@@ -11,7 +11,7 @@
 ### :white_check_mark: Work Experience 
 * :large_orange_diamond: Company : Canada Syntax
 * :large_orange_diamond: Possition :  Machine Learning Engineer 
-* :large_orange_diamond: Period : Running 
+* :large_orange_diamond: Period : 1.2 year
 
 ### :white_check_mark: Tachnical Skills :briefcase: :briefcase:
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
