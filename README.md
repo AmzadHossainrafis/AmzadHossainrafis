@@ -9,7 +9,7 @@
 <br>
 
 ### :white_check_mark: Work Experience 
-* :large_orange_diamond: Company : neocon innovation limited
+* :large_orange_diamond: Company : adorsho pranisheba
 * :large_orange_diamond: Possition :  Machine Learning Engineer 
 * :large_orange_diamond: Period : 2.6 year
 
