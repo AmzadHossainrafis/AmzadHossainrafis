@@ -9,8 +9,8 @@
 <br>
 
 ### :white_check_mark: Work Experience 
-* :large_orange_diamond: Company : adorsho pranisheba
-* :large_orange_diamond: Possition :  Machine Learning Engineer 
+* :large_orange_diamond: Company : SSL wireless
+* :large_orange_diamond: Position :  Machine Learning Engineer 
 * :large_orange_diamond: Period : 3 year
 
 ### :white_check_mark: Tachnical Skills :briefcase: :briefcase:
